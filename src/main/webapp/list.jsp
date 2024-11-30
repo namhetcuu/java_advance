@@ -42,7 +42,7 @@
                         <td>${kh.hoten}</td>
                         <td>${kh.sdt}</td>
                         <td>${kh.email}</td>
-                        <td>Xoa</td>
+                        <td><button>Delete</button></td>
                     </tr>
             </c:forEach>
             
